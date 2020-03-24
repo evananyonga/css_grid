@@ -1,1 +1,1 @@
-This application shows a calendar in a grid form
+This application shows a calendar built with CSS grid.
